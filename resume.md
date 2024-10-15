@@ -1,3 +1,6 @@
-Name : Sienna Hargreaves
+Sienna Hargreaves's Resume
 
-Education : Northeastern 2024 - 2028 
+Education : 
+Northeastern University: Khoury College of Computer Sciences
+    Boston, MA Septempber 2024 - May 2028 
+    Candidatee: Bachelor of Science in Computer Science
